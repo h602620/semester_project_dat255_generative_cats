@@ -40,7 +40,7 @@ The execution of the code will generate a file with the name new_model.pt that s
 
 The project also contains .gif files used for visualization purposes 
 
-The training data is available in the large_cats/cats folder
+The training data is available in the cats_large/cats folder
 
  
 
